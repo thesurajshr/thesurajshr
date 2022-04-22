@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed Master of Information Technology at Victoria University.
-- 💼 &nbsp; Working as a Web Developer.
+- 💼 &nbsp; Working as a Application Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and ReactJS.
 - ✍️ &nbsp; Involved with data security, privacy protection for web applications.
 
@@ -14,8 +14,9 @@
 - 🌐 &nbsp; HTML | CSS | jQuery | SAAS | Bootstrap | AJAX | JSON | XML | ReactJS | NODE JS
 - 🛢 &nbsp; MySQL | MariaDB | SQL Server
 - 🔭 &nbsp; WordPress | Laravel | Codeigniter
-- 🔧 &nbsp; Git | Prepros | Brackets | VS Code | Visual Studio | Trello | Office 365
+- 🔧 &nbsp; Git | Prepros | Brackets | VS Code | Visual Studio | Trello | JIRA | Asana | Office 365
 - ⚡ &nbsp; Amazon Web Services | CPanel | WHM | VPS | Cloudflare 
+- ⚡ &nbsp; LEMP | LAMP 
 - 🖥 &nbsp; Illustrator| Photoshop | XD | 
  
 
