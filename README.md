@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | C# | JavaScript
+- 💻 &nbsp; PHP | C# | Java | JavaScript
 - 🌐 &nbsp; HTML | CSS | jQuery | SAAS | Bootstrap | AJAX | JSON | XML | ReactJS | NODE JS
-- 🛢 &nbsp; MySQL | MariaDB | SQL Server
+- 🛢 &nbsp; MySQL | MariaDB | SQL Server | MongoDB/DynamoDB
 - 🔭 &nbsp; WordPress | Laravel | Codeigniter
 - 🔧 &nbsp; Git | Prepros | Brackets | VS Code | Visual Studio | Trello | JIRA | Asana | Office 365
 - ⚡ &nbsp; Amazon Web Services | CPanel | WHM | VPS | Cloudflare 
