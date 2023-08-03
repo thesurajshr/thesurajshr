@@ -5,19 +5,19 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed Master of Information Technology at Victoria University.
 - 💼 &nbsp; Working as a Application Developer.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and ReactJS.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and ReactJS|NEXTJS.
 - ✍️ &nbsp; Involved with data security, privacy protection for web applications.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | C# | Java | JavaScript
-- 🌐 &nbsp; HTML | CSS | jQuery | SAAS | Bootstrap | AJAX | JSON | XML | ReactJS | NODE JS
+- 💻 &nbsp; PHP | JavaScript | C# | Java
+- 🌐 &nbsp; HTML | CSS | jQuery | SAAS | Bootstrap | AJAX | JSON | XML | ReactJS | NODE JS | NextJS
 - 🛢 &nbsp; MySQL | MariaDB | SQL Server | MongoDB/DynamoDB
-- 🔭 &nbsp; WordPress | Laravel | Codeigniter
-- 🔧 &nbsp; Git | Prepros | Brackets | VS Code | Visual Studio | Trello | JIRA | Asana | Office 365
-- ⚡ &nbsp; Amazon Web Services | CPanel | WHM | VPS | Cloudflare 
-- ⚡ &nbsp; LEMP | LAMP 
-- 🖥 &nbsp; Illustrator| Photoshop | XD | 
+- 🔭 &nbsp; WordPress | Drupal | Laravel | Codeigniter | Contentful | Strapi
+- 🔧 &nbsp; Git | Prepros | VS Code | Visual Studio | Trello | JIRA | Confluence | Asana | Office 365
+- ⚡ &nbsp; Amazon Web Services | CPanel | WHM | VPS | Cloudflare | Vercel
+- ⚡ &nbsp; LEMP | LAMP | MERN
+- 🖥 &nbsp; Illustrator| Photoshop | XD | Figma
  
 
 <!--
